@@ -2,7 +2,7 @@
 - 👀 I’m interested in business and marketing
 - 🌱 I’m currently learning business and marketing management
 - 💞️ I’m looking to collaborate on business related projects
-- 📫 How to reach me email: dellasabrinaa@gmail.com
+- 📫 How to reach me : dellasabrinaa@gmail.com
 
 <!---
 dellasabrin/dellasabrin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
